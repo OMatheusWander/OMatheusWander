@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @OMatheusWander
-- 👀 I’m interested in ... economy, criptocurrency and blockchain
-- 🌱 I’m currently learning ... CS50W from Harvard in edX
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in ... economy, power bi, python, R/R Studio.
+- 🌱 I’m currently learning ... Data Science
 - 📫 How to reach me ... +55 48 996265282
