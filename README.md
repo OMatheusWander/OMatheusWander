@@ -24,7 +24,7 @@ CONST Wander = {
   database: ["MySQL"],
   "cloud-server": ["AWS", " Azure"],
   "data libraries": ["Pandas", "Numpy", "Scikit Learn", "Selenium"],
-  differences: ["Statistic", "Econometrics", "time series", "scrapping"
+  differences: ["Statistic", "Econometrics", "time series", "scrapping"]
 }
 ```
 
